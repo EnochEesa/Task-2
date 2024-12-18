@@ -1,2 +1,2 @@
-This is task 2
-Hope u understand the git scenario
+This is Git task 2
+with different scenarios
